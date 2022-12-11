@@ -1,0 +1,3 @@
+newmtl fgobjMaterial
+map_Kd fgobj.jpeg
+map_Ka fgobj.jpeg
