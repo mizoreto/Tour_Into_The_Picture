@@ -1,0 +1,3 @@
+newmtl topMaterial
+map_Kd top.jpeg
+map_Ka top.jpeg
