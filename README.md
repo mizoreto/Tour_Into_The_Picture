@@ -25,8 +25,4 @@ python texture_synthesis.py -i <path to image> --x <starting point X of the mask
 ```
 You would get two files named as `background.jpg` and `foreground.jpg`.
 
-Then run:
-```
-python foreground_extraction.py -i foreground.jpg
-```
-to get the foreground object `foreground_clean.jpg`.
+Then use `foreground.jpg` as the image input of `BackgroundRemoval_Iterative.ipynb` to get the optimal foreground object `foreground.png`.
