@@ -1,0 +1,3 @@
+newmtl leftMaterial
+map_Kd left.jpeg
+map_Ka left.jpeg
