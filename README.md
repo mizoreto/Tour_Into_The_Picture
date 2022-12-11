@@ -11,8 +11,6 @@ Cheung Yau Shing Jonathan (ysc7)\
 Yu Bu (yubu2)\
 Jiayin Meng (jiayinm2)
 
-## Approach
-
 ## Results
 
 ## Directories
