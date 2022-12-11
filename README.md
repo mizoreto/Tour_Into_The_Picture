@@ -23,6 +23,6 @@ Inside the project's directory run:
 ```
 python texture_synthesis.py -i <path to image> --x <starting point X of the mask> --y <starting point Y of the mask> --w <width of the mask> --h <height of the mask> --patch_size <patch size for inpainter>
 ```
-You would get two files named as `background.jpg` and `foreground.jpg`.
+You would get two files named `background.jpg` and `foreground.jpg`.
 
 Then use `foreground.jpg` as the image input of `BackgroundRemoval_Iterative.ipynb` to get the optimal foreground object `foreground.png`.
