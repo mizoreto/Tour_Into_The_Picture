@@ -27,6 +27,7 @@ Jiayin Meng (jiayinm2)
 #### Final 3D space at a glance
 <img src="./assets/1_final.png" width = 50%/>
 
+
 ### Test case 2 without foreground:
 <img src= "./images/2.jpg" width = 40%/>
 
