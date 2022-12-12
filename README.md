@@ -63,3 +63,6 @@ foreground = cv2.cvtColor(cv2.imread(filename), cv2.COLOR_BGR2RGB).astype('doubl
 f_coords = foreground_coords(foreground, bottom_right_coord_of_foreground_object)
 construct_foreground(foreground, coords, f_coords, "your output folder", coords3D, 1000, x_multiplier, depth)
 '''
+### Use Blender
+Once you have run the previous steps, you can create a new blender file insied the output folder.
+Then simply import all of the required .obj files.
