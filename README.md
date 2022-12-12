@@ -19,10 +19,13 @@ Jiayin Meng (jiayinm2)
 <img src="./images/1.jpg" align="middle" width = 50%/> <img src="./results/foreground.png" align="middle" width = 10%/>
 
 #### Manual input box layout
+<img src="./assets/1_box_layout.png" width = 40%/>
 
 #### Constructing homographies of 5 faces
+<img src="./assets/1_5_planes.png" width = 80%/>
 
 #### Final 3D space at a glance
+<img src="./assets/1_final.png" width = 50%/>
 
 ## Directories
 ### images
