@@ -40,6 +40,19 @@ Jiayin Meng (jiayinm2)
 #### Final 3D space at a glance
 <img src="./assets/2_final.png" width = 50%/>
 
+
+### Test case 3 without foreground:
+<img src= "./images/3.jpg" width = 50%/>
+
+#### Manual input box layout
+<img src="./assets/3_box_layout.png" width = 40%/>
+
+#### Constructing homographies of 5 faces
+<img src="./assets/3_5_planes.png" width = 80%/>
+
+#### Final 3D space at a glance
+<img src="./assets/3_final.png" width = 50%/>
+
 ## Directories
 ### images
 contains all the source images
