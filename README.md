@@ -12,6 +12,11 @@ Yu Bu (yubu2)\
 Jiayin Meng (jiayinm2)
 
 ## Results
+### Test case 1 with foreground:
+<img src= "./images/1_original.jpg" width = 50%/>
+
+#### Foreground extraction and texture synthesis
+
 
 ## Directories
 
