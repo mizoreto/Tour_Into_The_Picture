@@ -1,0 +1,3 @@
+newmtl bottomMaterial
+map_Kd bottom.jpeg
+map_Ka bottom.jpeg
