@@ -11,7 +11,18 @@ Cheung Yau Shing Jonathan (ysc7)\
 Yu Bu (yubu2)\
 Jiayin Meng (jiayinm2)
 
-## Results
+## Results 
+### Test case 1 with foreground:
+<img src= "./images/1_original.jpg" width = 50%/>
+
+#### Foreground extraction and texture synthesis
+<img src="./images/1.jpg" align="middle" width = 50%/> <img src="./results/foreground.png" align="middle" width = 10%/>
+
+#### Manual input box layout
+
+#### Constructing homographies of 5 faces
+
+#### Final 3D space at a glance:
 
 ## Directories
 
