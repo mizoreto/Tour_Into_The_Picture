@@ -12,6 +12,9 @@ Yu Bu (yubu2)\
 Jiayin Meng (jiayinm2)
 
 ## Results 
+### Video for our results
+https://drive.google.com/file/d/1g1S1EJ2rEcd-o0W2CnsaaFcrHkB42ugX/view?usp=share_link
+
 ### Test case 1 with foreground:
 <img src= "./images/1_original.jpg" width = 50%/>
 
